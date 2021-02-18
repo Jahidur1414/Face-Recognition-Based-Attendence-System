@@ -1,0 +1,12 @@
+tk-tools
+opencv-contrib-python
+opencv-python
+datetime
+pytest-shutil
+python-csv
+numpy
+pillow 
+pandas
+times
+cmake
+dlib
